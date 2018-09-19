@@ -4,5 +4,8 @@
 - Download Provider Template
 - Upload and Validate File
 
+### Fixes
+- Minor Bug Fixes
+
 ### Operations
 - The files are saved to Power Drive
